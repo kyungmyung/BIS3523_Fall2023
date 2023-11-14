@@ -1,6 +1,6 @@
 package Syntax_Part1;
 
-public class Syntax2 {
+public class Syntax2_ArthimeticOperators {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package Syntax_Part1;
 
-public class Syntax6 {
+public class Syntax6_ASCIITable {
 	public static void main(String[] args) {
 		
 		char ch = 'a';

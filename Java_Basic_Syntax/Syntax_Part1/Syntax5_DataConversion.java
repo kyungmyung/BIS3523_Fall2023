@@ -1,6 +1,6 @@
 package Syntax_Part1;
 
-public class Syntax5 {
+public class Syntax5_DataConversion {
 	public static void main(String[] args) {
 		
 		// Byte Type

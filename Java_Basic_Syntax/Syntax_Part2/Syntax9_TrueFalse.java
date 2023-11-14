@@ -1,6 +1,6 @@
 package Syntax_Part2;
 
-public class Syntax9 {
+public class Syntax9_TrueFalse {
 
 	public static void main(String[] args) {
 		

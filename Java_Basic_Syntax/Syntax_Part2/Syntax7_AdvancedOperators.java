@@ -1,6 +1,6 @@
 package Syntax_Part2;
 
-public class Syntax7 {
+public class Syntax7_AdvancedOperators {
 	public static void main(String[] args) {
 		
 		int num1 = 5;

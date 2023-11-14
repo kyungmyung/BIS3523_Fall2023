@@ -2,7 +2,7 @@ package Syntax_Part1;
 
 import javax.swing.JOptionPane;
 
-public class Syntax4 {
+public class Syntax4_IfElseStatement2 {
 	public static void main(String[] args) {
 		
 		String in = JOptionPane.showInputDialog("Scores from studnets");

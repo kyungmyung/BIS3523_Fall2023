@@ -1,6 +1,6 @@
 package Syntax_Part1;
 
-public class Syntax3 {
+public class Syntax3_IfElseStatement {
 	public static void main(String[] args) {
 		
 	   	 int score = 90;

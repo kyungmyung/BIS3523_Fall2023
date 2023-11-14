@@ -1,6 +1,6 @@
 package Syntax_Part1;
 
-public class Syntax1 {
+public class Syntax1_DataType {
 
 	public static void main(String[] args) {
 		

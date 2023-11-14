@@ -1,6 +1,6 @@
 package Syntax_Part2;
 
-public class Syntax8 {
+public class Syntax8_Comparison {
 	public static void main(String[] args) {
 		
 		int num1 = 10;
