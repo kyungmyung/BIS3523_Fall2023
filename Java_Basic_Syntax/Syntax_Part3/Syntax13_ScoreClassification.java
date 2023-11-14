@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Syntax10_ScoreClassification {
+public class Syntax13_ScoreClassification {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package Syntax_Part3;
 
-public class Syntax9_LoopStatement {
+public class Syntax10_LoopStatement {
 
 	public static void main(String[] args) {
 		// For example 1
