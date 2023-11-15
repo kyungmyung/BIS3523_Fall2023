@@ -4,6 +4,10 @@
 	<classpathentry kind="src" path="Class_Basic"/>
 	<classpathentry kind="src" path="Class_Advanced"/>
 	<classpathentry kind="src" path="Data_Collection"/>
+	<classpathentry kind="src" path="Data_Strcture"/>
+	<classpathentry kind="src" path="JFrame_Basic"/>
+	<classpathentry kind="src" path="Online_Banking_Application"/>
+	<classpathentry kind="src" path="Database_Management"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
 			<attribute name="module" value="true"/>
