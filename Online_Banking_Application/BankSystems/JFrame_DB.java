@@ -207,19 +207,19 @@ public class JFrame_DB {
 		                	        frame2.dispose();
 		                	        frame.dispose(); 
 		                	        
-		                	        try(Connection con = DriverManager.getConnection(DB_Add, USER, PASS);
-		                	  	    	  Statement st = con.createStatement();
-		                	  	    	  ResultSet r = st.executeQuery("SELECT accountnum, accountbal FROM example1 WHERE userid ="+ "'" + id + "'");
-		                	  	    ) {
-		                	        	while(r.next()){
-		                	        		
-		                	        		  String accountnum = r.getString("accountnum");
-		                	        		  String accountbal = r.getString("accountbal");
-		                	        		  Banking b = new Banking(accountnum, accountbal);
-		                	        		  Banking.main(args);
-		                	        		
-		                	        	}
-		                	        }
+                	        try(Connection con = DriverManager.getConnection(DB_Add, USER, PASS);
+                	  	    	  Statement st = con.createStatement();
+                	  	    	  ResultSet r = st.executeQuery("SELECT accountnum, accountbal FROM example1 WHERE userid ="+ "'" + id + "'");
+                	  	    ) {
+                	        	while(r.next()){
+                	        		
+                	        		  String accountnum = r.getString("accountnum");
+                	        		  String accountbal = r.getString("accountbal");
+                	        		  Banking b = new Banking(accountnum, accountbal);
+                	        		  Banking.main(args);
+                	        		
+                	        	}
+                	        }
 		                	        
 		                	        catch(SQLException q) {
 		                	        	q.printStackTrace();

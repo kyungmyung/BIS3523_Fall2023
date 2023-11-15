@@ -27,7 +27,7 @@ public class SQL_DB_Table_Column_Creation {
 	                   "ssn VARCHAR(255),"+
 	                   "accountnum VARCHAR(255)," + 
 	                   "accountpass TEXT,"+
-	                   "accountbal TEXT,"+"PRIMARY KEY (userid, accountnum, ssn)"+  ")"; 
+	                   "accountbal float(100000,7),"+"PRIMARY KEY (userid, accountnum, ssn)"+  ")"; 
 	        		 
 	         st.executeUpdate(sql);
 	         System.out.println("Created table in testdb1...");  	  
