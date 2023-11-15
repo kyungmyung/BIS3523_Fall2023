@@ -3,10 +3,92 @@
 	<classpathentry kind="src" path="Java_Basic_Syntax"/>
 	<classpathentry kind="src" path="Class_Basic"/>
 	<classpathentry kind="src" path="Class_Advanced"/>
+	<classpathentry kind="src" path="Data_Collection"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-api-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-api-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-chrome-driver-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-chrome-driver-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-chromium-driver-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-chromium-driver-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-devtools-v85-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-devtools-v85-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-devtools-v104-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-devtools-v104-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-devtools-v105-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-devtools-v105-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-devtools-v106-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-devtools-v106-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-edge-driver-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-edge-driver-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-firefox-driver-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-firefox-driver-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-http-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-http-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-ie-driver-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-ie-driver-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-java-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-java-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-json-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-json-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-remote-driver-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-remote-driver-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-safari-driver-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-safari-driver-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-support-4.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/selenium-support-4.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/byte-buddy-1.12.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/failsafe-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-buffer-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-codec-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-codec-http-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-codec-socks-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-common-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-handler-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-handler-proxy-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-resolver-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-transport-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-transport-classes-epoll-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-transport-classes-kqueue-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-transport-native-epoll-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-transport-native-kqueue-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/netty-transport-native-unix-common-4.1.79.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-api-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-context-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-exporter-common-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-exporter-logging-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-sdk-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-sdk-common-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-sdk-extension-autoconfigure-1.17.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-sdk-logs-1.17.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-sdk-metrics-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-sdk-trace-1.17.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/opentelemetry-semconv-1.17.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/lib/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kyungmyung/Downloads/opencsv-4.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
